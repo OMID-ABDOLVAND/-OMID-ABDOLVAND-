@@ -1,3 +1,4 @@
+# Hi 👋🏻 I’m Omid
 # 💫 About Me:
 🤝 I’m looking for help with Golang<br>🌱 I’m currently learning System Design<br>💬 Ask me about Python and Django
 
@@ -23,7 +24,9 @@
 
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<div align="center">
+  <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OMID-ABDOLVAND&icon=0&color=0)](https://visitcount.itsvg.in)
