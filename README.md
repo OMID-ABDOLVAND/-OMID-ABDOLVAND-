@@ -6,8 +6,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omid-abdolvand) 
 
+##  💻 Tech Stack
 <div align="center">
-  <h2>💻 Tech Stack:</h2>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" /> 
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" /> 
   <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=flat-square&logo=celery&logoColor=ddf4a4" alt="Celery" /> 
