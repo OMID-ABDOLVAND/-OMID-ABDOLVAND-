@@ -38,13 +38,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OMID-ABDOLVAND&theme=flat&margin-w=15)
 
-</br>
-
-### 😂 Random Dev Meme
-<div align="center">
-  <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=OMID-ABDOLVAND&icon=0&color=0)](https://visitcount.itsvg.in)
 
