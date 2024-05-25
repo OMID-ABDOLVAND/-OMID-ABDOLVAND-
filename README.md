@@ -1,5 +1,5 @@
 # Hi 👋🏻 I’m Omid
-# 💫 About Me:
+💫 About Me:
 🤝 I’m looking for help with Golang<br>🌱 I’m currently learning System Design<br>💬 Ask me about Python and Django
 
 
@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OMID-ABDOLVAND&theme=flat&margin-w=15)
 
-
+</br>
 ### 😂 Random Dev Meme
 <div align="center">
   <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
