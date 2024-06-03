@@ -31,8 +31,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OMID-ABDOLVAND&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMID-ABDOLVAND&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMID-ABDOLVAND&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div> -->
 
 
 ## 🏆 GitHub Trophies
